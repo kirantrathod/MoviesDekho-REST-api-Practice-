@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoviesDekho</string>
+    <string name="tv_original_title">(Original title: %1$s - %2$s)</string>
+</resources>

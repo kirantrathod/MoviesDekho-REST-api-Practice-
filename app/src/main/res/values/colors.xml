@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>-->
+
+    <color name="colorPrimary">#252525</color>
+    <color name="colorPrimaryDark">#202020</color>
+    <color name="colorAccent">#555555</color>
+    <color name="tabIndicatorColor">#FFFFFF</color>
+    <color name="tabSelectedTextColor">#FFFFFF</color>
+    <color name="tabTextColor">#000000</color>
+    <color name="colorNormal">#252525</color>
+    <color name="colorPressed">#202020</color>
+    <color name="colorRipple">#555555</color>
+    <color name="chipBackground">#c8f36a21</color>
+    <color name="orange">#f36a21</color>
+    <color name="green">#0ecf48</color>
+    <color name="blue">#21bff3</color>
+    <color name="red">#e21c0e</color>
+    <color name="ripple_color">#555555</color>
+    <color name="divider">#f2f2f2</color>
+    <color name="background_color">#f2f2f2</color>
+    <color name="text_color">#525252</color>
+    <color name="black">#000000</color>
+    <color name="shadow">#202020</color>
+    <color name="white">#ffffff</color>
+    <color name="hint">#767676</color>
+    <color name="colorGreyLight">#8A8A8A</color>
+
+</resources>
