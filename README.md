@@ -15,7 +15,9 @@ This application is created for practicing REST api functionality over api http:
 
 # Search Movie Page:                                                 
 <p align="center" style="border: 3px solid black">
-<img src="https://user-images.githubusercontent.com/26267268/67146148-aeeffd80-f2a5-11e9-8f83-4e3ef4150433.jpg" width="300" height="500" > 
+<img src="https://user-images.githubusercontent.com/26267268/67146148-aeeffd80-f2a5-11e9-8f83-4e3ef4150433.jpg" width="300" height="500" > &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/26267268/67146149-b4e5de80-f2a5-11e9-8981-dff34978aac5.jpg" width="300" height="500" > </hr>
+  <img src="https://user-images.githubusercontent.com/26267268/67146152-b7e0cf00-f2a5-11e9-82af-1a81b8a2089f.jpg" width="300" height="500" > 
 </p>
 
 <p align="center" style="border: 3px solid black">
